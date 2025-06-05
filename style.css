@@ -4,10 +4,11 @@ p {
     font-size: x-large;
     width: 745px;
     font-size: x-large;
+
     
 }
 span{
-    border: solid ;
+    border: solid  3px;
     border-color: blue;
 }
 
